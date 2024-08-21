@@ -1,8 +1,8 @@
 """
 Estruturas lógicas: and(e), or(ou), not(não) e is(é)
 
-Operadores unários: not, is
-Operadores binários: and, or
+Operadores unários: not
+Operadores binários: and, or, is
 """
 
 ativo = True
