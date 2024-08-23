@@ -72,6 +72,3 @@ index = my_list.index(85)
 print(index)
 
 
-
-
-
