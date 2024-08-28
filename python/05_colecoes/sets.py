@@ -8,5 +8,3 @@ print(elemento)
 elemento = meu_set.pop()
 print(meu_set)
 print(elemento)
-
-
