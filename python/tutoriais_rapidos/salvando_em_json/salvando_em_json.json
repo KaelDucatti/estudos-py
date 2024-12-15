@@ -1,0 +1,22 @@
+{
+    "name": "Kael",
+    "surname": "o Cruel",
+    "address": [
+        {
+            "street": "Estado de Israel",
+            "number": 39
+        },
+        {
+            "street": "Gildo de Freitas",
+            "number": 624
+        }
+    ],
+    "height": 1.73,
+    "favorite_numbers": [
+        3,
+        7,
+        33
+    ],
+    "developer": true,
+    "nothingess": null
+}
